@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_user_metadata">
+    <par_dashboard_user_metadata action="DELETE">
+        <background_color/>
+        <cache_expiration_time>0</cache_expiration_time>
+        <card_bg_image/>
+        <created_by_user display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</created_by_user>
+        <created_on>2026-01-28 00:18:48</created_on>
+        <dashboard display_value="NeedIt Application">36f58f0083b6b6108d9ac4a6feaad3c6</dashboard>
+        <edit_locked/>
+        <enable_data_cache>false</enable_data_cache>
+        <include_custom_insights>true</include_custom_insights>
+        <include_key_contributors>true</include_key_contributors>
+        <include_kpi_signals>true</include_kpi_signals>
+        <include_predictive_target>true</include_predictive_target>
+        <include_predictive_thresholds>true</include_predictive_thresholds>
+        <include_process_mining>true</include_process_mining>
+        <include_severity>true</include_severity>
+        <include_target>true</include_target>
+        <include_thresholds>true</include_thresholds>
+        <include_trends>true</include_trends>
+        <include_widget_notification>true</include_widget_notification>
+        <last_deactivated_on/>
+        <last_updated_on>2026-01-28 00:18:48</last_updated_on>
+        <po_project_id_list/>
+        <refresh_information>false</refresh_information>
+        <refresh_interval>-1</refresh_interval>
+        <requested_by_user/>
+        <schedule_repetition>false</schedule_repetition>
+        <show_insights_panel>true</show_insights_panel>
+        <sys_class_name>par_dashboard_user_metadata</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-01-28 00:18:48</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>f6f5cf0083b6b6108d9ac4a6feaad3c1</sys_id>
+        <sys_mod_count>9</sys_mod_count>
+        <sys_name/>
+        <sys_overrides/>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>par_dashboard_user_metadata_f6f5cf0083b6b6108d9ac4a6feaad3c1</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-01-28 00:23:42</sys_updated_on>
+        <updated_by_user display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</updated_by_user>
+        <use_custom_tab_colors>false</use_custom_tab_colors>
+        <widgets_margin>$now-global-space--sm</widgets_margin>
+    </par_dashboard_user_metadata>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>58a584e8eb9d6a58e483f459bad0cdb6</instance_id>
+        <instance_name>dev339880</instance_name>
+        <name>par_dashboard_user_metadata_f6f5cf0083b6b6108d9ac4a6feaad3c1</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_user_metadata"><par_dashboard_user_metadata action="INSERT_OR_UPDATE"><background_color/><cache_expiration_time>0</cache_expiration_time><card_bg_image/><created_by_user display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</created_by_user><created_on>2026-01-28 00:18:48</created_on><dashboard display_value="NeedIt Application">36f58f0083b6b6108d9ac4a6feaad3c6</dashboard><edit_locked/><enable_data_cache>false</enable_data_cache><include_custom_insights>true</include_custom_insights><include_key_contributors>true</include_key_contributors><include_kpi_signals>true</include_kpi_signals><include_predictive_target>true</include_predictive_target><include_predictive_thresholds>true</include_predictive_thresholds><include_process_mining>true</include_process_mining><include_severity>true</include_severity><include_target>true</include_target><include_thresholds>true</include_thresholds><include_trends>true</include_trends><include_widget_notification>true</include_widget_notification><last_deactivated_on/><last_updated_on>2026-01-28 00:18:48</last_updated_on><po_project_id_list/><refresh_information>false</refresh_information><refresh_interval>-1</refresh_interval><requested_by_user/><schedule_repetition>false</schedule_repetition><show_insights_panel>true</show_insights_panel><sys_class_name>par_dashboard_user_metadata</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-01-28 00:18:48</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>f6f5cf0083b6b6108d9ac4a6feaad3c1</sys_id><sys_mod_count>9</sys_mod_count><sys_name/><sys_overrides/><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>par_dashboard_user_metadata_f6f5cf0083b6b6108d9ac4a6feaad3c1</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-01-28 00:23:42</sys_updated_on><updated_by_user display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</updated_by_user><use_custom_tab_colors>false</use_custom_tab_colors><widgets_margin>$now-global-space--sm</widgets_margin></par_dashboard_user_metadata></record_update>]]></payload>
+        <payload_hash>-589861948</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>c964c6f3832ef2108d9ac4a6feaad3d4</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-01-28 00:23:42</sys_created_on>
+        <sys_id>f6170bc083b6b6108d9ac4a6feaad3ff</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19c01fc12540000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-01-28 00:23:42</sys_updated_on>
+        <type>PAR Dashboard Metadata</type>
+        <update_guid>36170bc06bb6b610da6bb4deb9f413fe</update_guid>
+        <update_guid_history>36170bc06bb6b610da6bb4deb9f413fe:-589861948,5a170bc01bb6b610be3db43d1a618cc1:1033932743,d2170bc0a8b6b6104f5a99a20f28f256:-364191769,bec68b8040b6b610d12fdfb47a1f911a:824272694,7ec68b8045b6b6103d1fc3738f7dc112:71947322,a6c64b80c1b6b6108a49a6da6b1aded7:-589861948,42760380f0b6b61083c5324a91158b58:-1568340503,0276038046b6b61045242e746d2a5d50:-960350111,cd360b404db6b610ffa971d2a3278638:-589861948,f2f5cf0011b6b610106ab64e3fbb71c7:31686963</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="">38278bc083b6b6108d9ac4a6feaad3b2</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-01-28 00:23:51</sys_created_on>
+        <sys_db_object display_value="" name="par_dashboard_user_metadata">par_dashboard_user_metadata</sys_db_object>
+        <sys_id>4538fbd110e74fa1b3720235fdb64ff1</sys_id>
+        <sys_metadata>f6f5cf0083b6b6108d9ac4a6feaad3c1</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>par_dashboard_user_metadata_f6f5cf0083b6b6108d9ac4a6feaad3c1</sys_update_name>
+        <sys_update_version display_value="par_dashboard_user_metadata_f6f5cf0083b6b6108d9ac4a6feaad3c1">f6170bc083b6b6108d9ac4a6feaad3ff</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-01-28 00:23:51</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
